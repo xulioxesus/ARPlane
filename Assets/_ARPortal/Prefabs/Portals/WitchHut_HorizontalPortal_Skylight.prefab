@@ -327,17 +327,17 @@ PrefabInstance:
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.788
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.63
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 8.73
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
@@ -347,22 +347,22 @@ PrefabInstance:
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3549455950380311451, guid: c466359b05d044de7be0d3b5e7dca26f,
         type: 3}
@@ -378,6 +378,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Unoptimized Particle System
+      objectReference: {fileID: 0}
+    - target: {fileID: 6685327278373175583, guid: c466359b05d044de7be0d3b5e7dca26f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
